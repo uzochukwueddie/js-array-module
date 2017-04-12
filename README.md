@@ -6,7 +6,7 @@ A simple module that provides functions to manipulate arrays
 
 ```javascript
 ##  HOW TO USE
-var array = require('js-array-module);
+var array = require('js-array-module');
 
 ## METHODS
 1. SumArray
