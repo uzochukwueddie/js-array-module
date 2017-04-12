@@ -9,10 +9,10 @@ A simple module that provides functions to manipulate arrays
 var array = require('js-array-module);
 
 ## METHODS
-# SumArray
-# AverageArray
-# MaxArray
-# MinArray
-# UniqArray
-# UniqArraySort
-# UniqStringArray
+1. SumArray
+2.  AverageArray
+3.  MaxArray
+4.  MinArray
+5.  UniqArray
+6.  UniqArraySort
+7.  UniqStringArray
