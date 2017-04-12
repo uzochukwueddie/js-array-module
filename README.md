@@ -10,9 +10,9 @@ var array = require('js-array-module');
 
 ## METHODS
 1. SumArray
-2.  AverageArray
-3.  MaxArray
-4.  MinArray
-5.  UniqArray
-6.  UniqArraySort
-7.  UniqStringArray
+2. AverageArray
+3. MaxArray
+4. MinArray
+5. UniqArray
+6. UniqArraySort
+7. UniqStringArray
