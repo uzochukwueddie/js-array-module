@@ -16,3 +16,4 @@ var array = require('js-array-module');
 5. UniqArray
 6. UniqArraySort
 7. UniqStringArray
+```
