@@ -17,3 +17,5 @@ var array = require('js-array-module');
 6. UniqArraySort
 7. UniqStringArray
 ```
+
+### This is the README for develop branch
